@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "http://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\joydivisionmain-1920x1100.png</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">url</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">ImagePlugin</Metadata>
+    <Metadata name="Image">joydivisionmain-1920x1100.png</Metadata>
+    <Metadata name="OrigSource">joydivisionmain-1920x1100.png</Metadata>
+    <Metadata name="Source">joydivisionmain-1920x1100.png</Metadata>
+    <Metadata name="SourceFile">joydivisionmain-1920x1100.png</Metadata>
+    <Metadata name="FileFormat">png</Metadata>
+    <Metadata name="FileSize">2449824</Metadata>
+    <Metadata name="ImageType">PNG</Metadata>
+    <Metadata name="ImageWidth">1920</Metadata>
+    <Metadata name="ImageHeight">1100</Metadata>
+    <Metadata name="ImageSize">2.336MB</Metadata>
+    <Metadata name="srclink_file">joydivisionmain-1920x1100.png</Metadata>
+    <Metadata name="srclinkFile">joydivisionmain-1920x1100.png</Metadata>
+    <Metadata name="srcicon">&lt;img src=&quot;_httpprefix_/collect/[collection]/index/assoc/[assocfilepath]/[srclinkFile]&quot; width=&quot;[ImageWidth]&quot; height=&quot;[ImageHeight]&quot;&gt;</Metadata>
+    <Metadata name="ThumbType">gif</Metadata>
+    <Metadata name="Thumb">joydivisionmain-1920x1100_thumb.gif</Metadata>
+    <Metadata name="thumbicon">&lt;img src=&quot;_httpprefix_/collect/[collection]/index/assoc/[assocfilepath]/[Thumb]&quot; alt=&quot;[Thumb]&quot; width=&quot;[ThumbWidth]&quot; height=&quot;[ThumbHeight]&quot;&gt;</Metadata>
+    <Metadata name="ThumbWidth">100</Metadata>
+    <Metadata name="ThumbHeight">57</Metadata>
+    <Metadata name="ScreenType">jpeg</Metadata>
+    <Metadata name="Screen">joydivisionmain-1920x1100_screen.jpeg</Metadata>
+    <Metadata name="screenicon">&lt;img src=&quot;_httpprefix_/collect/[collection]/index/assoc/[assocfilepath]/[Screen]&quot; width=[ScreenWidth] height=[ScreenHeight]&gt;</Metadata>
+    <Metadata name="ScreenWidth">500</Metadata>
+    <Metadata name="ScreenHeight">286</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="dc.Format">Images</Metadata>
+    <Metadata name="Title">joydivisionmain-1920x1100</Metadata>
+    <Metadata name="Identifier">HASH0150b29ad20e45a9b631e500</Metadata>
+    <Metadata name="lastmodified">1652546916</Metadata>
+    <Metadata name="lastmodifieddate">20220514</Metadata>
+    <Metadata name="oailastmodified">1652548128</Metadata>
+    <Metadata name="oailastmodifieddate">20220514</Metadata>
+    <Metadata name="assocfilepath">HASH0150.dir</Metadata>
+    <Metadata name="gsdlassocfile">joydivisionmain-1920x1100.png:image/png:</Metadata>
+    <Metadata name="gsdlassocfile">joydivisionmain-1920x1100_thumb.gif:image/gif:</Metadata>
+    <Metadata name="gsdlassocfile">joydivisionmain-1920x1100_screen.jpeg:image/jpeg:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

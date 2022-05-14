@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DirectoryMetadata SYSTEM "http://greenstone.org/dtd/DirectoryMetadata/1.0/DirectoryMetadata.dtd">
+<DirectoryMetadata>
+	<FileSet>
+		<FileName>joy-division\.jpg</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Format">Images</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>joydivisionmain-1920x1100\.png</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Format">Images</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>thekillers-920x584\.jpg</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Format">Images</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Joy_Division_-_Disorder_\(getmp3\.pro\)\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Format">Mp3</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Joy_Division_-_Digital_\(getmp3\.pro\)\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Format">Mp3</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Joy_Division_-_Dead_Souls_\(getmp3\.pro\)\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Format">Mp3</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Joy_Division_-_Day_of_the_Lords_\(getmp3\.pro\)\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Format">Mp3</Metadata>
+		</Description>
+	</FileSet>
+	
+</DirectoryMetadata>

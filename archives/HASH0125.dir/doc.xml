@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "http://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\Sm95X0RpdmlzaW9uXy1fRGVhZF9Tb3Vsc18oZ2V0bXAzLnBybyk=.mp3</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">base64</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">MP3Plugin</Metadata>
+    <Metadata name="FileSize">9388183</Metadata>
+    <Metadata name="Source">Joy_Division_-_Dead_Souls_(getmp3.pro).mp3</Metadata>
+    <Metadata name="SourceFile">Sm95X0RpdmlzaW9uXy1fRGVhZF9Tb3Vsc18oZ2V0bXAzLnBybyk=.mp3</Metadata>
+    <Metadata name="mp3">Joy_Division_-_Dead_Souls_(getmp3.pro)</Metadata>
+    <Metadata name="srcurl">Sm95X0RpdmlzaW9uXy1fRGVhZF9Tb3Vsc18oZ2V0bXAzLnBybyk=.mp3</Metadata>
+    <Metadata name="FileFormat">MP3</Metadata>
+    <Metadata name="srcicon">_iconmp3_</Metadata>
+    <Metadata name="srclink_file">Sm95X0RpdmlzaW9uXy1fRGVhZF9Tb3Vsc18oZ2V0bXAzLnBybyk=.mp3</Metadata>
+    <Metadata name="srclinkFile">Sm95X0RpdmlzaW9uXy1fRGVhZF9Tb3Vsc18oZ2V0bXAzLnBybyk=.mp3</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="dc.Format">Mp3</Metadata>
+    <Metadata name="Title">Joy Division - Dead Souls (getmp3.pro)</Metadata>
+    <Metadata name="Identifier">HASH012559213c6f2a3874f93401</Metadata>
+    <Metadata name="lastmodified">1652546920</Metadata>
+    <Metadata name="lastmodifieddate">20220514</Metadata>
+    <Metadata name="oailastmodified">1652548125</Metadata>
+    <Metadata name="oailastmodifieddate">20220514</Metadata>
+    <Metadata name="assocfilepath">HASH0125.dir</Metadata>
+    <Metadata name="gsdlassocfile">Sm95X0RpdmlzaW9uXy1fRGVhZF9Tb3Vsc18oZ2V0bXAzLnBybyk=.mp3:audio/mp3:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

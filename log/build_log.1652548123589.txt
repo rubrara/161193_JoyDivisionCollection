@@ -1,0 +1,20 @@
+s
+************** Import  Started **************
+The file metadata.xml is being processed by MetadataXMLPlugin.
+The file Joy_Division_-_Day_of_the_Lords_(getmp3.pro).mp3 is being processed by MP3Plugin.
+The file Joy_Division_-_Dead_Souls_(getmp3.pro).mp3 is being processed by MP3Plugin.
+The file Joy_Division_-_Digital_(getmp3.pro).mp3 is being processed by MP3Plugin.
+The file Joy_Division_-_Disorder_(getmp3.pro).mp3 is being processed by MP3Plugin.
+The file joy-division.jpg is being processed by ImagePlugin.
+The file joydivisionmain-1920x1100.png is being processed by ImagePlugin.
+The file thekillers-920x584.jpg is being processed by ImagePlugin.
+************** Import Finished **************
+7 documents were considered for processing:
+    7 documents were processed and included in the collection.
+
+************** Build  Started **************
+Creating an index based on text;dc.Title,ex.dc.Title,Title;Source;...
+Creating an index based on text;dc.Title,ex.dc.Title,Title;Source;...
+Creating information database...
+Creating auxiliary files and tidying up...
+************** Build Finished **************

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "http://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\Sm95X0RpdmlzaW9uXy1fRGlzb3JkZXJfKGdldG1wMy5wcm8p.mp3</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">base64</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">MP3Plugin</Metadata>
+    <Metadata name="FileSize">6116941</Metadata>
+    <Metadata name="Source">Joy_Division_-_Disorder_(getmp3.pro).mp3</Metadata>
+    <Metadata name="SourceFile">Sm95X0RpdmlzaW9uXy1fRGlzb3JkZXJfKGdldG1wMy5wcm8p.mp3</Metadata>
+    <Metadata name="mp3">Joy_Division_-_Disorder_(getmp3.pro)</Metadata>
+    <Metadata name="srcurl">Sm95X0RpdmlzaW9uXy1fRGlzb3JkZXJfKGdldG1wMy5wcm8p.mp3</Metadata>
+    <Metadata name="FileFormat">MP3</Metadata>
+    <Metadata name="srcicon">_iconmp3_</Metadata>
+    <Metadata name="srclink_file">Sm95X0RpdmlzaW9uXy1fRGlzb3JkZXJfKGdldG1wMy5wcm8p.mp3</Metadata>
+    <Metadata name="srclinkFile">Sm95X0RpdmlzaW9uXy1fRGlzb3JkZXJfKGdldG1wMy5wcm8p.mp3</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="dc.Format">Mp3</Metadata>
+    <Metadata name="Title">Joy Division - Disorder (getmp3.pro)</Metadata>
+    <Metadata name="Identifier">HASH0522c350d3112605374341</Metadata>
+    <Metadata name="lastmodified">1652546921</Metadata>
+    <Metadata name="lastmodifieddate">20220514</Metadata>
+    <Metadata name="oailastmodified">1652548126</Metadata>
+    <Metadata name="oailastmodifieddate">20220514</Metadata>
+    <Metadata name="assocfilepath">HASH0522.dir</Metadata>
+    <Metadata name="gsdlassocfile">Sm95X0RpdmlzaW9uXy1fRGlzb3JkZXJfKGdldG1wMy5wcm8p.mp3:audio/mp3:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

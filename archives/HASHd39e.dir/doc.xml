@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "http://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\Sm95X0RpdmlzaW9uXy1fRGF5X29mX3RoZV9Mb3Jkc18oZ2V0bXAzLnBybyk=.mp3</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">base64</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">MP3Plugin</Metadata>
+    <Metadata name="FileSize">8367631</Metadata>
+    <Metadata name="Source">Joy_Division_-_Day_of_the_Lords_(getmp3.pro).mp3</Metadata>
+    <Metadata name="SourceFile">Sm95X0RpdmlzaW9uXy1fRGF5X29mX3RoZV9Mb3Jkc18oZ2V0bXAzLnBybyk=.mp3</Metadata>
+    <Metadata name="mp3">Joy_Division_-_Day_of_the_Lords_(getmp3.pro)</Metadata>
+    <Metadata name="srcurl">Sm95X0RpdmlzaW9uXy1fRGF5X29mX3RoZV9Mb3Jkc18oZ2V0bXAzLnBybyk=.mp3</Metadata>
+    <Metadata name="FileFormat">MP3</Metadata>
+    <Metadata name="srcicon">_iconmp3_</Metadata>
+    <Metadata name="srclink_file">Sm95X0RpdmlzaW9uXy1fRGF5X29mX3RoZV9Mb3Jkc18oZ2V0bXAzLnBybyk=.mp3</Metadata>
+    <Metadata name="srclinkFile">Sm95X0RpdmlzaW9uXy1fRGF5X29mX3RoZV9Mb3Jkc18oZ2V0bXAzLnBybyk=.mp3</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="dc.Format">Mp3</Metadata>
+    <Metadata name="Title">Joy Division - Day of the Lords (getmp3.pro)</Metadata>
+    <Metadata name="Identifier">HASHd39e826ed701286a5ada5e</Metadata>
+    <Metadata name="lastmodified">1652546917</Metadata>
+    <Metadata name="lastmodifieddate">20220514</Metadata>
+    <Metadata name="oailastmodified">1652548125</Metadata>
+    <Metadata name="oailastmodifieddate">20220514</Metadata>
+    <Metadata name="assocfilepath">HASHd39e.dir</Metadata>
+    <Metadata name="gsdlassocfile">Sm95X0RpdmlzaW9uXy1fRGF5X29mX3RoZV9Mb3Jkc18oZ2V0bXAzLnBybyk=.mp3:audio/mp3:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>
